@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class Islemler {
 
     static List<Kisi> ogrtmnList = new ArrayList<>();
-    static List<Kisi> ogncList = new ArrayList<>();
+    static List<Kisi> ogrncList = new ArrayList<>();
     static Scanner scan = new Scanner(System.in);
     static String kisiTuru;
 
